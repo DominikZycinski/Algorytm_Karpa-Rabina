@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\domin\onedrive\dokumenty\visual studio 2017\projects\algorytm karpa-rabina\algorytm karpa-rabina\main.cpp(59): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\domin\onedrive\dokumenty\visual studio 2017\projects\algorytm karpa-rabina\algorytm karpa-rabina\main.cpp(62): warning C4244: "argument": konwersja z "unsigned __int64" do "long", możliwa utrata danych
+c:\users\domin\onedrive\dokumenty\visual studio 2017\projects\algorytm karpa-rabina\algorytm karpa-rabina\main.cpp(69): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\domin\onedrive\dokumenty\visual studio 2017\projects\algorytm karpa-rabina\algorytm karpa-rabina\main.cpp(75): warning C4244: "argument": konwersja z "__int64" do "const unsigned int", możliwa utrata danych
+c:\users\domin\onedrive\dokumenty\visual studio 2017\projects\algorytm karpa-rabina\algorytm karpa-rabina\main.cpp(75): warning C4244: "argument": konwersja z "__int64" do "long", możliwa utrata danych
+c:\users\domin\onedrive\dokumenty\visual studio 2017\projects\algorytm karpa-rabina\algorytm karpa-rabina\main.cpp(84): warning C4244: "argument": konwersja z "__int64" do "const unsigned int", możliwa utrata danych
+c:\users\domin\onedrive\dokumenty\visual studio 2017\projects\algorytm karpa-rabina\algorytm karpa-rabina\main.cpp(89): warning C4244: "argument": konwersja z "__int64" do "const unsigned int", możliwa utrata danych
+c:\users\domin\onedrive\dokumenty\visual studio 2017\projects\algorytm karpa-rabina\algorytm karpa-rabina\main.cpp(42): warning C4101: "wynik": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\domin\onedrive\dokumenty\visual studio 2017\projects\algorytm karpa-rabina\algorytm karpa-rabina\main.cpp(37): warning C4101: "find": lokalna zmienna, do której nie istnieje odwołanie
+  Algorytm Karpa-Rabina.vcxproj -> c:\users\domin\onedrive\dokumenty\visual studio 2017\Projects\Algorytm Karpa-Rabina\Debug\Algorytm Karpa-Rabina.exe
+  Algorytm Karpa-Rabina.vcxproj -> c:\users\domin\onedrive\dokumenty\visual studio 2017\Projects\Algorytm Karpa-Rabina\Debug\Algorytm Karpa-Rabina.pdb (Partial PDB)
